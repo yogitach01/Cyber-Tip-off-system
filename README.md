@@ -1,5 +1,5 @@
 # cyber-tipline
-tipline system
+Tipline system
 ![image](https://github.com/user-attachments/assets/5d3d255f-a35b-4fd5-b08f-d3d0fac5de3d)
 
 Following are the role division mentioned for the Cyber Tipline app.
